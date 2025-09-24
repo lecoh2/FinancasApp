@@ -4,7 +4,8 @@
     "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": false,
+      "launchBrowser": true, /* Abrir o navegador ao rodar o projeto */
+      "launchUrl": "scalar/v1", /* Endereço da página inicial */
       "applicationUrl": "http://localhost:5299",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
